@@ -1,0 +1,15 @@
+{
+  "name": "sayago-mmvrg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbConfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oracledb": "^5.1.0"
+  }
+}
